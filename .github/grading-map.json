@@ -1,0 +1,11 @@
+{
+  "LEDG-201": [
+    "tests/grading/test_overdraft_rejection.py"
+  ],
+  "LEDG-208": [
+    "tests/grading/test_rounding_precision.py"
+  ],
+  "LEDG-215": [
+    "tests/grading/test_transfer_idempotency.py"
+  ]
+}
